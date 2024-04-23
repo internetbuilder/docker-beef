@@ -35,10 +35,10 @@ WORKDIR /home/beef/
 
 ENV BEEF_WAITTIME="0" \
     BEEF_DEBUG="false" \
-    BEEF_USER="beefuser" \
-    BEEF_PASSWORD="beefpass" \
+    BEEF_USER="admin" \
+    BEEF_PASSWORD="438888!@#" \
     BEEF_SSL="true" \
-    #BEEF_PUBLIC_IP="fqdn.domain.com" \
+    #BEEF_PUBLIC_IP="159.100.6.228" \
     #BEEF_PUBLIC_PORT="443" \
     #BEEF_SSL_PUBLIC="true" \
     BEEF_MSF_ENABLE="false" \
